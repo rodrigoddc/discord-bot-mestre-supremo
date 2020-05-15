@@ -8,21 +8,21 @@ Python3.x.x
 Create a folder to store this project. Open this folder on terminal and run the following commands
 
 ### 1. Clone the project
-git clone https://github.com/rodrigoddc/discord-bot-mestre-supremo.git
+`git clone https://github.com/rodrigoddc/discord-bot-mestre-supremo.git`
 
 ### 2. Create a virtual environment
-python3 -m venv venv
+`python3 -m venv venv`
 
 ### 3. Activate the the virtual environment previously created
-on linux: source ./venv/bin/activate
-on windows: ./venv/Scripts/activate.bat
+on linux: `source ./venv/bin/activate`
+on windows: `./venv/Scripts/activate.bat`
 
 ### 4. Installing libs
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 5. Create .env file to keep your tokens
-touch .env
-echo "DISCORD_TOKEN=your_discord_token" >> .env
+`touch .env`
+`echo "DISCORD_TOKEN=your_discord_token" >> .env`
 
 ### 5. Running
-python bot.py
+`python bot.py`
