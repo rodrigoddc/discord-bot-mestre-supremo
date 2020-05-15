@@ -8,7 +8,7 @@ Python3.x.x
 Create a folder to store this project. Open this folder on terminal and run the following commands
 
 ### 1. Clone the project
-git clone https://github.com/rodrigoddc/polls-tutorial.git
+git clone https://github.com/rodrigoddc/discord-bot-mestre-supremo.git
 
 ### 2. Create a virtual environment
 python3 -m venv venv
